@@ -11,20 +11,20 @@
       {
 		"name": "ShotA",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-		"collections": "featured,landscapes,people"
+		"url": "https://i.postimg.cc/pTcBv7JS/CLFish-52.jpg",
+		"collections": "Ocean"
 	},
 	{
 		"name": "ShotB",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+		"url": "https://i.postimg.cc/vHVvR0gP/CLFish-53.jpg",
 		"dimensions": "3200x2560",
 		"collections": "people,city",
 		"downloadable": false
 	},
 	{
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+		"url": "https://i.postimg.cc/2yq7SwHS/CLFish-54.jpg",
 		"name": "ShotC",
 		"dimensions": "1280x720",
 		"copyright": "Credits to its creator",
@@ -34,7 +34,7 @@
 		"name": "Wallsplash 1",
 		"author": "wallsplash",
 		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+		"thumbnail": "https://i.postimg.cc/mk0NzHqN/CLFish-55.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes,people,city",
@@ -43,8 +43,8 @@
 	{
 		"name": "Wallsplash 2",
 		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+		"url": "https://i.postimg.cc/mk0NzHqN/CLFish-55.jpg",
+		"thumbnail": "https://i.postimg.cc/KYMbtSRP/CLFish-6.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes,people,food"
@@ -52,8 +52,8 @@
 	{
 		"name": "Wallsplash 3",
 		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-		"thumbnail": "https://via.placeholder.com/450",
+		"url": "https://i.postimg.cc/KYMbtSRP/CLFish-6.jpg",
+		"thumbnail": "https://i.postimg.cc/KYMbtSRP/CLFish-6.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,food,people"
